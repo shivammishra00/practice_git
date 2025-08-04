@@ -1,3 +1,3 @@
 # practice_git
 this is my practice git tutorial
-author-  shivam mishra
+author-  shivank garg
